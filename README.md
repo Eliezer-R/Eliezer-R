@@ -122,8 +122,10 @@
 <ul>
 
 <li>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald%20Almanzar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-almanzar-vasques-5ab283361/)
-</li>
+    <a href="https://www.linkedin.com/in/ronald-almanzar-vasques-5ab283361/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Ronald%20Almanzar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </li>
 
 <br>
 
