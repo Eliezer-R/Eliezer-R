@@ -43,6 +43,7 @@
 <p align="center">
 
 - **Languages**:
+ 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    
 
@@ -61,10 +62,10 @@
 - **Backend**:
 
     
-![Node.js](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-CC2927?logo=Microsoft%20SQL%20Server&logoColor=white&style=for-the-badge)
+   ![Node.js](https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge)
+   ![Express.js](https://img.shields.io/badge/express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+   ![SQL](https://img.shields.io/badge/SQL-CC2927?logo=Microsoft%20SQL%20Server&logoColor=white&style=for-the-badge)
 
     
 <br>
@@ -79,7 +80,7 @@
 
 - **Aprendiendo**:
 
-   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 
 
 
