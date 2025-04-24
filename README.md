@@ -19,7 +19,6 @@
 
 <br>
 
-👋 ¡Hola! Soy Eliezer
 
 🧠 Soy un apasionado de la programación, adicto a los algoritmos y al aprendizaje constante.
 
